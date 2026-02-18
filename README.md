@@ -17,10 +17,10 @@ pkg install git openjdk-21 -y
 
 ### 2. Clonar o Repositório
 
-Substitua `SEU_USUARIO` e `NOME_DO_REPO` pelo seu link do GitHub:
+Para clonar o repositório, use o seguinte comando:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
+git clone https://github.com/davivida661-collab/aetherforge-mod.git
 cd NOME_DO_REPO
 ```
 
